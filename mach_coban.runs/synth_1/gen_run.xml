@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="synth_1" LaunchPart="xc7z020iclg484-1L" LaunchTime="1751437616" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/nor_2in.dcp">
-  <File Type="PA-TCL" Name="D_FF_1_2_3_5_6.tcl"/>
   <File Type="REPORTS-TCL" Name="D_FF_1_2_3_5_6_reports.tcl"/>
-  <File Type="RDS-RDS" Name="D_FF_1_2_3_5_6.vds"/>
-  <File Type="RDS-PROPCONSTRS" Name="D_FF_1_2_3_5_6_drc_synth.rpt"/>
   <File Type="RDS-UTIL" Name="D_FF_1_2_3_5_6_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="D_FF_1_2_3_5_6_utilization_synth.pb"/>
+  <File Type="PA-TCL" Name="D_FF_1_2_3_5_6.tcl"/>
+  <File Type="RDS-RDS" Name="D_FF_1_2_3_5_6.vds"/>
   <File Type="RDS-DCP" Name="D_FF_1_2_3_5_6.dcp"/>
-  <File Type="VDS-TIMINGSUMMARY" Name="D_FF_1_2_3_5_6_timing_summary_synth.rpt"/>
-  <File Type="VDS-TIMING-PB" Name="D_FF_1_2_3_5_6_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/JK_FF.vhd">

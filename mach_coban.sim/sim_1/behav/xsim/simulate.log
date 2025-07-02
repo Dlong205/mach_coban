@@ -1,0 +1,38 @@
+Time resolution is 1 ps
+Note: Clock Cycle: 0 | cnt = 1000 | Y = '0'
+Time: 15 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 1 | cnt = 1100 | Y = '0'
+Time: 25 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 2 | cnt = 1010 | Y = '0'
+Time: 35 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 3 | cnt = 1110 | Y = '0'
+Time: 45 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 4 | cnt = 1001 | Y = '0'
+Time: 55 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 5 | cnt = 1101 | Y = '0'
+Time: 65 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 6 | cnt = 1011 | Y = '0'
+Time: 75 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 7 | cnt = 1111 | Y = '1'
+Time: 85 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Error: ERROR: Y phai bang 0 khi cnt khac 110
+Time: 85 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 8 | cnt = 0000 | Y = '0'
+Time: 95 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 9 | cnt = 1000 | Y = '0'
+Time: 105 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 10 | cnt = 1100 | Y = '0'
+Time: 115 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 11 | cnt = 1010 | Y = '0'
+Time: 125 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 12 | cnt = 1110 | Y = '0'
+Time: 135 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 13 | cnt = 1001 | Y = '0'
+Time: 145 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 14 | cnt = 1101 | Y = '0'
+Time: 155 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Clock Cycle: 15 | cnt = 1011 | Y = '0'
+Time: 165 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+Note: Testbench ok
+Time: 165 ns  Iteration: 1  Process: /tb_D_FF_cnt_max13/stim_proc  File: D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd
+$stop called at time : 165 ns : File "D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd" Line 93
