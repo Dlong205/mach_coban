@@ -1,9 +1,18 @@
 Vivado Simulator v2024.2.0
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
-Running: F:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L work -L secureip --snapshot tb_D_FF_cnt_max13_behav xil_defaultlib.tb_D_FF_cnt_max13 -log elaborate.log 
+Running: F:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L work -L secureip --snapshot tb_T_FF_cnt_dongbo_7_behav xil_defaultlib.tb_T_FF_cnt_dongbo_7 -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
-WARNING: [VRFC 10-8856] comparison between unequal length arrays always returns FALSE; left argument length 4 is different from right argument length 3 for 'std_logic_vector_93' array [D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_cnt_max13.vhd:82]
 Completed static elaboration
-INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package std.env
+Compiling architecture behavioral of entity work.T_FF [t_ff_default]
+Compiling architecture behavioral of entity xil_defaultlib.T_FF_cnt_dongbo_7 [t_ff_cnt_dongbo_7_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_t_ff_cnt_dongbo_7
+Built simulation snapshot tb_T_FF_cnt_dongbo_7_behav
