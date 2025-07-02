@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"tb_D_FF_1_2_3_5_6_time_synth.v" \
+
+# Do not sort compile order
+nosort

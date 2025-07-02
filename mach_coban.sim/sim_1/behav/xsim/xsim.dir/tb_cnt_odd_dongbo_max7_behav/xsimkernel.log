@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_cnt_odd_dongbo_max7_behav/xsimk.exe -simmode gui -wdb tb_cnt_odd_dongbo_max7_behav.wdb -simrunnum 0 -socket 64954
+Design successfully loaded
+Design Loading Memory Usage: 29052 KB (Peak: 29052 KB)
+Design Loading CPU Usage: 499 ms
+Simulation completed
+Simulation Memory Usage: 29868 KB (Peak: 29868 KB)
+Simulation CPU Usage: 546 ms

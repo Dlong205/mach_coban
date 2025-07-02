@@ -1,0 +1,24 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/cnt_down_5_tb.vhd,1751286454,vhdl,,,,cnt_down_5_tb,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/nand_2in_tb.vhd,1751369921,vhdl,,,,nand_2in_tb,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_D_FF_1_2_3_5_6.vhd,1751440521,vhdl,,,,tb_d_ff_1_2_3_5_6,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cnt_5.vhd,1751267760,vhdl,,,,cnt_5_tb,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cnt_down_7.vhd,1751392629,vhdl,,,,tb_cnt_down_7,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cnt_odd_dongbo_max7.vhd,1751396727,vhdl,,,,tb_cnt_odd_dongbo_max7,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cnt_odd_max_7.vhd,1751398469,vhdl,,,,tb_cnt_odd_max_7,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cntmax6_chan_dongbo.vhd,1751394464,vhdl,,,,tb_cntmax6_chan_dongbo,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tbv_cnt_dongbo_6.vhd,1751392234,vhdl,,,,tbv_cnt_dongbo_6,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/D_FF_1_2_3_5_6.vhd,1751440375,vhdl,,,,d_ff_1_2_3_5_6,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cnt_5.vhd,1751268910,vhdl,,,,cnt_5,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cnt_dongbo_6.vhd,1751389301,vhdl,D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tbv_cnt_dongbo_6.vhd,,,cnt_dongbo_6,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cnt_down_5.vhd,1751286676,vhdl,,,,cnt_down_5,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cnt_down_7.vhd,1751392767,vhdl,D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cnt_down_7.vhd,,,cnt_down_7,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cnt_le_4_dongbo.vhd,1751395869,vhdl,,,,cnt_le_4_dongbo,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cnt_odd_dongbo_max7.vhd,1751396589,vhdl,D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cnt_odd_dongbo_max7.vhd,,,cnt_odd_dongbo_max7,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cnt_odd_max_7.vhd,1751398496,vhdl,D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cnt_odd_max_7.vhd,,,cnt_odd_max_7,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/cntmax6_chan_dongbo.vhd,1751394168,vhdl,D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tb_cntmax6_chan_dongbo.vhd,,,cntmax6_chan_dongbo,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/nand_2in.vhd,1751372903,vhdl,,,,nand_2in,,,,,,,,
+D:/Vivado/Source/mach_coban/mach_coban.srcs/sources_1/new/nor_2in.vhd,1751372798,vhdl,,,,nor_2in,,,,,,,,

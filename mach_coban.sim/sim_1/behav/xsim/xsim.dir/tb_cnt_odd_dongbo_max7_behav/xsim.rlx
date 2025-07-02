@@ -1,0 +1,12 @@
+
+{ 
+    crc :  373454132922648655  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L work -L secureip --snapshot tb_cnt_odd_dongbo_max7_behav xil_defaultlib.tb_cnt_odd_dongbo_max7" , 
+    buildDate : "Nov  8 2024" , 
+    buildTime : "22:36:57" , 
+    linkCmd : "F:\\Xilinx\\Vivado\\2024.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/tb_cnt_odd_dongbo_max7_behav/xsimk.exe\"   \"xsim.dir/tb_cnt_odd_dongbo_max7_behav/obj/xsim_0.win64.obj\" \"xsim.dir/tb_cnt_odd_dongbo_max7_behav/obj/xsim_1.win64.obj\" -L\"F:\\Xilinx\\Vivado\\2024.2\\lib\\win64.o\" -lxv_simulator_kernel   -lxv_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/Source/mach_coban/mach_coban.sim/sim_1/synth/timing/xsim/tb_D_FF_1_2_3_5_6_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module JK_FF
+INFO: [VRFC 10-311] analyzing module JK_FF_0
+INFO: [VRFC 10-311] analyzing module JK_FF_1
+INFO: [VRFC 10-311] analyzing module cnt_down_7
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tbv_cnt_dongbo_6.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tbv_cnt_dongbo_6'
+ERROR: [VRFC 10-2987] 'cnt_dongbo_6' is not compiled in library 'xil_defaultlib' [D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tbv_cnt_dongbo_6.vhd:15]
+ERROR: [VRFC 10-9458] unit 'sim' is ignored due to previous errors [D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tbv_cnt_dongbo_6.vhd:7]
+INFO: [VRFC 10-8704] VHDL file 'D:/Vivado/Source/mach_coban/mach_coban.srcs/sim_1/new/tbv_cnt_dongbo_6.vhd' is ignored due to errors

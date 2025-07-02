@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../mach_coban.srcs/sim_1/new/tbv_cnt_dongbo_6.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/cnt_down_5_tb.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/nand_2in_tb.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/tb_cnt_5.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/tb_cnt_down_7.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/tb_cntmax6_chan_dongbo.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/tb_cnt_odd_dongbo_max7.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/tb_cnt_odd_max_7.vhd" \
+"../../../../../mach_coban.srcs/sim_1/new/tb_D_FF_1_2_3_5_6.vhd" \
+
+# Do not sort compile order
+nosort
